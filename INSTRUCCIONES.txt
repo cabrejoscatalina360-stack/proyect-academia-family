@@ -1,0 +1,11 @@
+UNICIENCIA — WEB INTERACTIVA
+
+1. Extrae el ZIP en una carpeta de tu equipo.
+2. Abre uniciencia.html con Chrome, Edge, Firefox o Safari actualizado.
+3. Recorre las secciones del menú. Puedes filtrar programas, ampliar y descargar afiches y preparar una consulta de matrícula.
+
+No necesitas instalar Node.js ni ejecutar un servidor. Las imágenes, fuentes, estilos y funciones están dentro del archivo HTML. Si una vista previa de archivos muestra solo el código o bloquea botones, descarga el archivo y ábrelo desde tu navegador.
+
+El formulario no guarda tus datos en esta web ni confirma una matrícula. Solo prepara un mensaje; tú decides enviarlo por WhatsApp. WhatsApp y Google Maps requieren conexión a Internet. No incluyas datos sensibles.
+
+Este archivo no publica la web en Internet ni modifica la configuración del entorno.
